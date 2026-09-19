@@ -10,6 +10,15 @@
         "tempoBpm": 82,
         "paperType": "半透明纸带"
       },
+      "freeze": {
+        "frozen": false,
+        "frozenAt": null,
+        "triggerIssueId": null,
+        "triggerReinspectionId": null,
+        "freezeBeat": null,
+        "unfrozenAt": null,
+        "unfreezeReinspectionId": null
+      },
       "createdAt": "2026-06-16T00:00:00.000Z"
     }
   ],
@@ -46,5 +55,6 @@
       "createdAt": "2026-06-16T00:00:00.000Z",
       "resolvedAt": null
     }
-  ]
+  ],
+  "reinspections": []
 }
